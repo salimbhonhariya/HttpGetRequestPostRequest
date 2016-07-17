@@ -1,0 +1,5 @@
+c:\users\samsung 700z7c\documents\visual studio 2015\Projects\WebHttpClient\WebHttpClient\bin\Debug\WebHttpClient.exe.config
+c:\users\samsung 700z7c\documents\visual studio 2015\Projects\WebHttpClient\WebHttpClient\bin\Debug\WebHttpClient.exe
+c:\users\samsung 700z7c\documents\visual studio 2015\Projects\WebHttpClient\WebHttpClient\bin\Debug\WebHttpClient.pdb
+c:\users\samsung 700z7c\documents\visual studio 2015\Projects\WebHttpClient\WebHttpClient\obj\Debug\WebHttpClient.exe
+c:\users\samsung 700z7c\documents\visual studio 2015\Projects\WebHttpClient\WebHttpClient\obj\Debug\WebHttpClient.pdb
